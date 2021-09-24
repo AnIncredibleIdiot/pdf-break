@@ -1,0 +1,8 @@
+var expTplt = getTemplate("Personnel Review Form");
+expTplt.spawn();
+
+var add = this getTemplate("Personnel Review Form");
+expTplt.spawn();
+
+var expTplt = getTemplate("Personnel Review Form");
+ExpTplt.spawn(numPages,true,false);
